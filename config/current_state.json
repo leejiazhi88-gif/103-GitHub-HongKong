@@ -1,0 +1,18 @@
+{
+  "verified_at_utc": "2026-10-30T04:10:28.510220+00:00",
+  "sheet_title": "港股投研_2026-10-29",
+  "data_date": "2026-10-29",
+  "company_count": 292,
+  "counts_by_category": {
+    "H 股": 148,
+    "红筹股（Red-chip，国资境外）": 30,
+    "P-chip（民营红筹，非 H 内地民企）": 64,
+    "香港本地股": 34,
+    "国际海外股": 16
+  },
+  "threshold_hkd_100m": 280,
+  "market_cap_unit": "亿港元",
+  "forecast_company_count": 271,
+  "sheet_url": "https://my.feishu.cn/wiki/DQvWwTlZoiq5FwkLIm0ccRbhnxh?sheet=u5nSmy",
+  "snapshot_scope": "API values verified; no refresh of market/financial source data"
+}

@@ -1,0 +1,16 @@
+# Only reviewed source, documentation and non-secret configuration are tracked.
+*
+!/.gitignore
+!/.env.example
+!/README.md
+!/AGENTS.md
+!/CHANGELOG.md
+!/requirements.txt
+!/config/
+!/config/project.json
+!/config/current_state.json
+!/scripts/
+!/scripts/*.py
+.env
+__pycache__/
+*.pyc

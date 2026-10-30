@@ -1,0 +1,23 @@
+{
+  "repository": "https://github.com/leejiazhi88-gif/103-GitHub-HongKong",
+  "wiki_token": "DQvWwTlZoiq5FwkLIm0ccRbhnxh",
+  "sheet_id": "u5nSmy",
+  "sheet_title": "港股投研_2026-10-29",
+  "data_date": "2026-10-29",
+  "threshold_hkd_100m": 280,
+  "market_cap_column": "F",
+  "market_cap_hkd_column": "AY",
+  "market_cap_unit": "亿港元",
+  "annual_profit_unit": "亿美元",
+  "quarter_profit_unit": "亿元人民币",
+  "row_height_px": 29,
+  "category_column": "B",
+  "category_color_columns": "A:E",
+  "colors": {
+    "H 股": "#E3EFFB",
+    "红筹股（Red-chip，国资境外）": "#FCE4D6",
+    "P-chip（民营红筹，非 H 内地民企）": "#E2F0D9",
+    "香港本地股": "#EDE3F5",
+    "国际海外股": "#FFF2CC"
+  }
+}
